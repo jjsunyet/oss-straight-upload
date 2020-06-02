@@ -22,6 +22,7 @@
       msg: 'the page which for test oss straight upload',
       upLoadArr:[],
       userMessage:{},
+
     }
   },
   methods:{
